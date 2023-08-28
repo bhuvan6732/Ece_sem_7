@@ -1,0 +1,22 @@
+4) *Client-Server Communication (2 Marks)*
+
+Client-server communication is a model where clients (requesters) 
+interact with servers (providers) to access resources or services. 
+Clients send requests, and servers respond with data or services. 
+This interaction relies on protocols like HTTP, SMTP, or FTP. 
+The model is stateless, requiring security measures like authentication and encryption. 
+It enables web browsing, email, and more, and supports horizontal scalability for increased demand.
+
+
+5) *World Wide Web (2 Marks)*
+
+The World Wide Web (WWW), commonly known as the web, 
+is an interconnected network of information accessible via the internet. 
+It consists of web pages, multimedia content, and hyperlinks that allow users 
+to navigate between different resources. The web operates using the HTTP protocol, 
+and web addresses are specified as URLs. Tim Berners-Lee is credited with its invention,
+and it has revolutionized information sharing and communication globally.
+
+Part-C
+Internet protocols => Unit 1 notes  page number 6
+HTTP request response => Unit 1 notes page number 15
